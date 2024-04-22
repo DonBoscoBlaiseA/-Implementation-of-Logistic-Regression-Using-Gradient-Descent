@@ -104,7 +104,18 @@ xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]])
 y_prednew = predict(theta, xnew)
 print(y_prednew)
 ```
+```
 
+
+
+
+
+
+
+
+
+
+```
 ## Output:
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/952fa101-48ca-4743-8444-dd011f070626)
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/f2b35556-6609-4f0d-9860-3032ba449d82)
