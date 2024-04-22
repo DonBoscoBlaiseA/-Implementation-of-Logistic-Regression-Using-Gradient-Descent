@@ -32,7 +32,6 @@ dataset = pd.read_csv('Placement_Data.csv')
 dataset
 ```
 ```
-
 ```
 ```
 # dropping the serial no and salary col
@@ -68,6 +67,11 @@ y=Y
 # Define the sigmoid function
 def sigmoid(z):
     return 1 / (1 + np.exp(-z))
+```
+```
+
+```
+```
 # Define the loss function
 def loss(theta, X, y):
     h = sigmoid(X.dot(theta))
