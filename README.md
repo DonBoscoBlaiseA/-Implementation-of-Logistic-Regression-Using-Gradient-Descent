@@ -79,8 +79,6 @@ def gradient_descent(theta, X, y, alpha, num_iterations):
         gradient = X.T.dot(h - y) / m
 ```
 ```
-```
-```
         theta -= alpha * gradient
     return theta
 
