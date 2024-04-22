@@ -30,15 +30,15 @@ import matplotlib.pyplot as plt
 # reading the file
 dataset = pd.read_csv('Placement_Data.csv')
 dataset
-# dropping the serial no and salary col
-dataset = dataset.drop('sl_no',axis = 1)
-dataset = dataset.drop('salary',axis = 1)
-# categorising col for further labelling
 ```
 ```
 
 ```
 ```
+# dropping the serial no and salary col
+dataset = dataset.drop('sl_no',axis = 1)
+dataset = dataset.drop('salary',axis = 1)
+# categorising col for further labelling
 dataset["gender"] = dataset["gender"].astype('category')
 dataset["ssc_b"] = dataset["ssc_b"].astype('category')
 dataset["hsc_b"] = dataset["hsc_b"].astype('category')
