@@ -67,15 +67,15 @@ y=Y
 # Define the sigmoid function
 def sigmoid(z):
     return 1 / (1 + np.exp(-z))
+# Define the loss function
+def loss(theta, X, y):
+    h = sigmoid(X.dot(theta))
+    return -np.sum(y * np.log(h) + (1 - y) * np.log(1 - h))
 ```
 ```
 
 ```
 ```
-# Define the loss function
-def loss(theta, X, y):
-    h = sigmoid(X.dot(theta))
-    return -np.sum(y * np.log(h) + (1 - y) * np.log(1 - h))
 # Define the gradient descent algorithm
 def gradient_descent(theta, X, y, alpha, num_iterations):
     m = len(y)
