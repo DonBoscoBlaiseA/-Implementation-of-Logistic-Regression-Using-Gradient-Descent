@@ -109,8 +109,13 @@ print(y_prednew)
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/cc00e344-a4fb-4d0c-a66b-2ca9f254afed)
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/304956b4-9dde-40bc-b151-03120be61617)
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/fcce257e-f124-489f-bf56-3df2d6f8ebfd)
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>  
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
