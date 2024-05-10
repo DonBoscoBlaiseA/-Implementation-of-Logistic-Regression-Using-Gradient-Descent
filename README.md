@@ -30,10 +30,6 @@ import matplotlib.pyplot as plt
 # reading the file
 dataset = pd.read_csv('Placement_Data.csv')
 dataset
-```
-```
-```
-```
 # dropping the serial no and salary col
 dataset = dataset.drop('sl_no',axis = 1)
 dataset = dataset.drop('salary',axis = 1)
