@@ -103,8 +103,6 @@ print(y_prednew)
 
 ## Output:
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/952fa101-48ca-4743-8444-dd011f070626)
-```
-```
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/f2b35556-6609-4f0d-9860-3032ba449d82)
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/e43fd578-ca19-4a19-b19e-ce1b9d756632)
 ![image](https://github.com/DonBoscoBlaiseA/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/140850829/4332bb13-a878-49f5-84bd-9ea092ad1c82)
